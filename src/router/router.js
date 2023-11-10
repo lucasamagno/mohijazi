@@ -1,10 +1,8 @@
-import Vue from 'vue';
-import Router from 'vue-router';
-import Home from './components/Home.vue';
-import Work from './components/Work.vue';
+import { createRouter, createWebHistory } from 'vue-router';
+import Home from '../components/Home.vue';
+import Work from '../components/Work.vue';
 
-Vue.use(Router);
-
+// Define your routes as before
 const routes = [
   {
     path: '/',
@@ -12,14 +10,14 @@ const routes = [
     component: Home,
   },
   {
-    path: '/about',
-    name: 'work',
+    path: '/work',
+    name: 'Work',
     component: Work,
   },
 ];
 
-const router = new Router({
-  mode: 'history',
+const router = createRouter({
+  history: createWebHistory(process.env.BASE_URL), 
   routes,
 });
 

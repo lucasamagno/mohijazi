@@ -7,6 +7,6 @@ console.log("HEY YOU FOUND ME :)")
 <h2>I'm just curious</h2>
 
 <button>Resume</button>
-<button>Work Experience</button>
+<router-link to="/work">Work</router-link>
 <button>Education</button>
 </template> 
