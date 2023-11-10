@@ -17,11 +17,15 @@
 console.log("HEY YOU FOUND ME :)")
 </script>
 
-<style>
+<style scoped>
 h1 {
     font-size: 5rem;
     color: black;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0rem;
+}
+
+p {
+  margin-top: 0.5rem;
 }
 
 .content-container {

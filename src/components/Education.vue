@@ -24,10 +24,34 @@ Studied Advanced Control Systems and Python.
 <p>Designed a conceptual novel design of an engine combining the sinusoidal and duke engines using NX.
 Conducted CAE (FEA, CFD, and thermal) analysis on the parts in addition to simulating it in NX.</p>
 
+<div class="diagrams"> 
+    <img src="/images/first.jpeg" alt="First Image">
+</div>
+
+
 <h3>Portable Water Filtration System</h3>
 <h4>Senior Design Project (ME 4500)</h4>
 <p>This project was intended to tackle the issue of water scarcity in underdeveloped regions of the world. We developed a replicable process to develop a cheap and portable water filtration system that can be taken from village to village easily or even transport the water a reasonable distance.
 the system uses a three stage filtration process that could clean and sanitize natural water using a dual stage particulate filter, carbon filter, and a UV filter..
 We cut open an electric pump which was attached to the stand in such a way to pump the water only when the bicycle was in the pumping configuration. then attached it to the filters which were placed in a balanced configuration when transporting water. An added option was the UV filter which we were unsure would be feasible in the target communities yet if possible was highly recommended. For the UV filter two Dynamos and a small battery, to ensure consistent power delivery for the filter, were added.</p>
 
+<div class="diagrams"> 
+    <img src="/images/second.jpeg" alt="Second Image">
+</div>
+
 </template> 
+
+<style scoped>
+.diagrams {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.diagrams img {
+  max-width: 100%;
+  max-height: 900px;
+  object-fit: contain;
+}
+</style>
