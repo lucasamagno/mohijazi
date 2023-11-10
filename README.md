@@ -1,4 +1,4 @@
-# mohijazi
+# mohijazi | Porfolio / Resume for Mo Hijazi
 
 ## Project setup
 ```
