@@ -5,7 +5,7 @@ console.log("HEY YOU FOUND ME :)")
 <template> 
 <h1>WORK EXPERIENCE</h1>
 <div class="image-container"> 
-    <img src="/images/bosch.png">
+    <img src="images/bosch.png">
 </div>
 <h2>REGIONAL SAFETY MANAGER</h2>
 <h3>MAY 2022 – PRESENT</h3>
@@ -20,7 +20,7 @@ Responsible for most GM projects in North America</p>
 
 
 <div class="image-container"> 
-    <img src="/images/invensity.jpg">
+    <img src="images/invensity.jpg">
 </div>
 <h2>CONSULTANT</h2>
 <h3>JULY 2021 – MAY 2022</h3>
@@ -39,7 +39,7 @@ Utilizing project planning, scope break down & allocation, issue management & re
 
 
 <div class="image-container"> 
-    <img src="/images/innovatrium.jpg">
+    <img src="images/innovatrium.jpg">
 </div>
 <h2>INNOVATION CONSULTANT</h2>
 <h3>MAY 2021 – FEBRUARY 2022</h3>
@@ -51,7 +51,7 @@ Project DAWG (Developing Airmen With Games) is a student game development compet
 
 
 <div class="image-container"> 
-    <img src="/images/waymo.png">
+    <img src="images/waymo.png">
 </div>
 <h2>FLEET SYSTEMS OPERATOR</h2>
 <h3>JANUARY 2021 – JULY 2021</h3>
@@ -65,7 +65,7 @@ Work with engineers to enhance the software of autonomous vehicles.</p>
 
 
 <div class="image-container"> 
-    <img src="/images/wayne.jpg">
+    <img src="images/wayne.jpg">
 </div>
 <h2>RESEARCH ASSISTANT</h2>
 <h3>MAY 2019 - SEPTEMBER 2019</h3>
@@ -79,8 +79,8 @@ Designed new components and assemblies using Fusion360 and UG/NX.</p>
 
 
 <div class="image-container"> 
-    <img src="/images/zf.png">
-    <img src="/images/trw.jpg">
+    <img src="images/zf.png">
+    <img src="images/trw.jpg">
 </div>
 <h2>PRODUCT ENGINEERING CO-OP</h2>
 <h3>SEPTEMBER 2018 – DECEMBER 2018</h3>
@@ -94,7 +94,7 @@ Conducted frequency spectrum analysis testing on drum brakes by collecting data 
 Was given full ownership of a project which I developed a test plan for</p>
 
 <div class="image-container"> 
-   <img src="/images/xenith.jpg">
+   <img src="images/xenith.jpg">
 </div>
 <h2>QUALITY ENGINEERING INTERN</h2>
 <h3>JUNE 2018 – AUGUST 2018</h3>
@@ -106,7 +106,7 @@ While there I developed a new warranty system to generate data that could be use
 
 
 <div class="image-container"> 
-    <img src="/images/innovatrium.jpg">
+    <img src="images/innovatrium.jpg">
 </div>
 <h2>INNOVATION FELLOW</h2>
 <h3>NOVEMBER 2017 - JULY 2018</h3>
