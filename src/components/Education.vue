@@ -54,4 +54,19 @@ We cut open an electric pump which was attached to the stand in such a way to pu
   max-height: 900px;
   object-fit: contain;
 }
+
+@media (max-width: 767px) {
+    body {
+        padding-left: 3vw;
+        padding-right: 3vw; 
+    }
+
+    h2 {
+        font-size: 18px;
+    }
+
+    h3 {
+        font-size: 15px;
+    }
+}
 </style>

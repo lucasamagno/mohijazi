@@ -78,7 +78,7 @@ Converted an AVL optical engine (15 of in the U.S.) from a CI diesel to the only
 Designed new components and assemblies using Fusion360 and UG/NX.</p>
 
 
-<div class="image-container"> 
+<div class="image-container" id="two-images"> 
     <img src="images/zf.png">
     <img src="images/trw.jpg">
 </div>
@@ -135,5 +135,28 @@ body {
   max-width: 100%; 
   max-height: 300px; 
   object-fit: contain;
+}
+
+@media (max-width: 767px) {
+    body {
+        padding-left: 5vw; /* this for some reason when changed from 25 to 5 is messing up the nav bar*/
+        padding-right: 5vw; /* this for some reason when changed from 25 to 5 is messing up the nav bar*/
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 15px;
+    }
+    
+    #two-images {
+        display: flex;
+        justify-content: center; /* Center items horizontally */
+        align-items: center; /* Center items vertically */
+        flex-wrap: wrap; /* Allow items to wrap to the next line on small screens */
+        margin-bottom: 20px; /* Add some space below the container */
+    }
 }
 </style>
