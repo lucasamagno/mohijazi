@@ -139,8 +139,8 @@ body {
 
 @media (max-width: 767px) {
     body {
-        padding-left: 5vw; /* this for some reason when changed from 25 to 5 is messing up the nav bar*/
-        padding-right: 5vw; /* this for some reason when changed from 25 to 5 is messing up the nav bar*/
+        padding-left: 5vw;
+        padding-right: 5vw; 
     }
 
     h2 {
@@ -153,10 +153,10 @@ body {
     
     #two-images {
         display: flex;
-        justify-content: center; /* Center items horizontally */
-        align-items: center; /* Center items vertically */
-        flex-wrap: wrap; /* Allow items to wrap to the next line on small screens */
-        margin-bottom: 20px; /* Add some space below the container */
+        justify-content: center; 
+        align-items: center; 
+        flex-wrap: wrap; 
+        margin-bottom: 20px;
     }
 }
 </style>
